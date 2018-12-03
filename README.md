@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Pokemon is awesome
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Github teacher
 
 ## Getting started
 
